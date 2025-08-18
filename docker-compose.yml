@@ -1,0 +1,9 @@
+services:
+  db:
+    image: postgres:17
+    environment:
+      POSTGRES_USER: myuser        # usuário padrão
+      POSTGRES_PASSWORD: mypassword # senha
+      POSTGRES_DB: desafio      # banco inicial
+    ports:
+      - "5432:5432"                # porta padrão do Postgres
