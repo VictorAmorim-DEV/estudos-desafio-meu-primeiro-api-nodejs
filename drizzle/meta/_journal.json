@@ -15,6 +15,41 @@
       "when": 1755546072699,
       "tag": "0001_big_dagger",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1755634522155,
+      "tag": "0002_brief_bushwacker",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1755634662835,
+      "tag": "0003_soft_bulldozer",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1755636225877,
+      "tag": "0004_skinny_gargoyle",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1755640868653,
+      "tag": "0005_worthless_johnny_blaze",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1755649167814,
+      "tag": "0006_flashy_lady_deathstrike",
+      "breakpoints": true
     }
   ]
 }
