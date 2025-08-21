@@ -50,6 +50,34 @@
       "when": 1755649167814,
       "tag": "0006_flashy_lady_deathstrike",
       "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "7",
+      "when": 1755804182697,
+      "tag": "0007_supreme_jazinda",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "7",
+      "when": 1755804234817,
+      "tag": "0008_famous_puma",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "7",
+      "when": 1755804295288,
+      "tag": "0009_typical_black_widow",
+      "breakpoints": true
+    },
+    {
+      "idx": 10,
+      "version": "7",
+      "when": 1755805042411,
+      "tag": "0010_nostalgic_talisman",
+      "breakpoints": true
     }
   ]
 }

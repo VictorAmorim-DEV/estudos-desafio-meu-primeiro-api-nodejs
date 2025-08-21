@@ -12,3 +12,12 @@ GET http://localhost:3333/courses?orderBy=id&page=1
 ###
 
 GET http://localhost:3333/courses/3e520b46-beb2-419a-8104-4c1161e96b4f
+###
+
+POST http://localhost:3333/sessions
+Content-Type: application/json
+
+{
+    "email": "Samuel_Pereira98@yahoo.com",
+    "password": "123456"
+}
