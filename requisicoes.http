@@ -1,8 +1,9 @@
 POST http://localhost:3333/courses
 Content-Type: application/json
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmNjE4YjRkMi1hZDZlLTQzYjctYmY1ZC05YjBhZWRkZmM1MTUiLCJyb2xlIjoibWFuYWdlciIsImlhdCI6MTc1NTg5NTUxNn0.HX1qejl_5i3RWaQXklZtsxMTDFG5P8MMI42Uq8bFAnc
 
 {
-    "title": "Curso de React Native"
+    "title": "Curso de React"
 }
 
 ###
@@ -11,7 +12,8 @@ GET http://localhost:3333/courses?orderBy=id&page=1
 
 ###
 
-GET http://localhost:3333/courses/3e520b46-beb2-419a-8104-4c1161e96b4f
+GET http://localhost:3333/courses/41cbaad8-dd21-4a2c-98fc-07ecdceec600
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmNjE4YjRkMi1hZDZlLTQzYjctYmY1ZC05YjBhZWRkZmM1MTUiLCJyb2xlIjoic3R1ZGVudCIsImlhdCI6MTc1NTg5MzQ3N30.VsxjOG8jYwR9zG5QiBcfMAYdMZqXr9obep28Ishzy_I
 ###
 
 POST http://localhost:3333/sessions
